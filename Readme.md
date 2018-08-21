@@ -8,5 +8,5 @@ npm start
 http://localhost:3000
 
 
-Данные ,thencz из файла:
+Данные берутся из файла:
 public/data/input.json
